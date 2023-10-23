@@ -8,9 +8,9 @@ This week, we covered the importance of a great technical portfolio to help you 
 
 Spend time looking at other developer’s portfolios. Submit the links to three portfolios you will use for inspiration.
 
-1.
-2.
-3.
+1. https://jamescaddick-dev.netlify.app/
+2. https://startbootstrap.com/theme/resume
+3. https://www.templatemonster.com/website-templates/101269.html?aff=javarevisited&utm_campaign=webdeveloper_portfolio&utm_source=javarevisited&utm_medium=referral
 
 ### GitHub
 
